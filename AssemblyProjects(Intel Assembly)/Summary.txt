@@ -1,0 +1,13 @@
+These projects are written in x86 Intel Assembly language. To better understand how assembly works.
+We were assigned these projects that could be accomplished easily in a higher level language,
+but takes more work when creating in assembly.
+
+Projects:
+proj1- Prompts user for quantity of numbers to add, the value of those numbers, 
+        then stores those values and returns the sum.
+
+proj2- To practice comparing values in assembly. Takes user input and 
+        displays number of words of certain sizes.
+
+proj3- Practice creating and calling methods in assembly. Methods are
+        stored in proj3methods.

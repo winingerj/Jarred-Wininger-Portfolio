@@ -1,0 +1,15 @@
+The ETSU Department of Social Work needs a system to keep track of 
+social services in the area (shelters, soup kitchens, financial assistance,etc)
+to better help their clients. We were tasked to come up with a way to track these
+and allow social workers to look up services that a person need. 
+
+Development Team: Jarred Wininger, Isaac Styles, Jacob Gannt, Ben McFee, Jacob Davenport
+
+Tools: MySQL database, Laravel, PHP
+
+This is the result of 2 months of work. Upon entering the second portion of the
+Software Engineering Course, our work was handed off to another group for completion.
+
+We are currently working on a related project which will create a heat map of 
+services in the area to show gaps in service as well as highlight areas 
+that each service provides for.
