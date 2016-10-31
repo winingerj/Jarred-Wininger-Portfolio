@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="t-shirt" unicode="&#xe800;" d="M4 580q-14 41 20 69l156 125q17 13 39 13l562 0q22 0 39-13l157-125q33-28 19-69l-62-187q-10-29-39-39-10-4-20-4-18 0-31 8l0-383q0-25-19-44t-44-19l-562 0q-26 0-44 19t-19 44l0 383q-13-8-31-8-10 0-19 4-30 10-39 39z m59 20l62-187 94 62 0-500 562 0 0 500 94-62 63 187-157 125-131 0q-13-41-54-67t-96-27-96 27-54 67l-131 0z m320 125q14-27 45-45t72-18 72 18 45 45l-234 0z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
